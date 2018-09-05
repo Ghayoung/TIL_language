@@ -2,8 +2,8 @@
 
 int main(void)
 {
-	printf("xxx학과\n");
-	printf("학번\n");
-	printf("이름\n");
+	printf("hello\n");
+	printf("world\n");
+	printf("!\n");
 	return 0;
 }
