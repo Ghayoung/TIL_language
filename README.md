@@ -1,4 +1,4 @@
-# TIL
+# TIL_language
 Today I learned - 하루동안 스터디한 내용을 기록합니다.
 ****
 
