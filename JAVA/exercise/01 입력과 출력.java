@@ -14,8 +14,6 @@ public class BirthDate {
 		int Month; //월
 		int Date; //일
 		
-		System.out.println("hw5_1: 홍길동");
-		
 		System.out.print("주민등록번호 앞자리 입력:");
 		RRN1=input.nextInt();
 		
