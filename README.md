@@ -6,7 +6,7 @@ Today I learned - 하루동안 스터디한 내용을 기록합니다. 각종 �
 ## C
 ## JAVA
 ## JavaScript
-## JQuery
+## jQuery
 ****
 
 # Now studying(★)/Want to study:
