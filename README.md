@@ -1,26 +1,23 @@
 # TIL_language
-Today I learned - 하루동안 스터디한 내용을 기록합니다.
+Today I learned - 하루동안 스터디한 내용을 기록합니다. 각종 언어들을 예제 스크립트 위주로 정리한 리포지토리입니다.
 ****
 
 # Description
-## Algorithm
-1. Programmers: https://programmers.co.kr/ 알고리즘 문제 풀이
+## C
+## JAVA
+## JavaScript
+## jQuery
 ****
+
 # Now studying(★)/Want to study:
+* ★C#
+* ★C++
+* ★HTML5 + CSS
+* ★TypeScript
+* ★ShellScript
+* ★Arduino Sketch
 * Python
-* Unity C#
-* Reverse Engineering
-* C++
 * JAVA 8
-* JavaScript
-* JQuery
-* Angular
-* Node.js
-* React
-* Flux
-* Redux
-* Docker
-* Phoenix Server
 * Scala
 * Kotlin
 * Julia
@@ -30,3 +27,4 @@ Today I learned - 하루동안 스터디한 내용을 기록합니다.
 * Haskell
 * Clojure
 * R
+* Ruby
