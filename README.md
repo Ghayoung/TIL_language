@@ -16,8 +16,8 @@ Today I learned - 하루동안 스터디한 내용을 기록합니다. 각종 �
 * ★TypeScript
 * ★ShellScript
 * ★Arduino Sketch
-* Python
-* JAVA 8
+* ★Python
+* ★JAVA 8
 * Scala
 * Kotlin
 * Julia
@@ -28,5 +28,3 @@ Today I learned - 하루동안 스터디한 내용을 기록합니다. 각종 �
 * Clojure
 * R
 * Ruby
-*
-*
