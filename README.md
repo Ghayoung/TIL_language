@@ -11,20 +11,4 @@ Today I learned - 하루동안 스터디한 내용을 기록합니다. 각종 �
 ****
 
 # Now studying(★)/Want to study:
-* ★C#
-* ★HTML5 + CSS
-* ★TypeScript
-* ★ShellScript
-* ★Arduino Sketch
 * ★Python
-* ★JAVA 8
-* Scala
-* Kotlin
-* Julia
-* Swift
-* Rust
-* Go
-* Haskell
-* Clojure
-* R
-* Ruby
